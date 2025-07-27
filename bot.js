@@ -21,9 +21,8 @@ const OWNER = "972515961649@s.whatsapp.net";
 
 // קבועים
 const OWNER_NUMBER = "972515961649";
-const DATA_DIR = "./data";
-const ADMINS_FILE = path.join(DATA_DIR, "admins.json");
-const COMMANDS_FILE = path.join(DATA_DIR, "commands.json");
+const ADMINS_FILE = path.join("admins.json");
+const COMMANDS_FILE = path.join("commands.json");
 const AUTH_DIR = "./auth_info_baileys";
 
 // טען אזהרות קיימות
